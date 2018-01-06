@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/skuzzle/asterix.svg?branch=master)](https://travis-ci.org/skuzzle/asterix)
+[![Coverage Status](https://coveralls.io/repos/github/skuzzle/asterix/badge.svg)](https://coveralls.io/github/skuzzle/asterix)
+
 # asterix
 Roman numeral parsing and formatting for Java
 
